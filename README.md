@@ -9,7 +9,6 @@
 - **Automation and Processes**: Implementing efficient workflows, such as inventory submission to external systems.
 - **Data Management**: Analysis and transformation of data from various sources, including Excel and databases.
 - **Educational Projects**: Active participation in transversal university projects.
-- **Mobile App Prototyping**: Developed mental health apps aligned with SDG 3: Good Health and Well-Being.
 
 ## 🌟 Featured Projects
 
