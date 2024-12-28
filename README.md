@@ -57,7 +57,7 @@
 
 ## 🛠️ Connect with me
 
-- **LinkedIn**: [Linkedin](www.linkedin.com/in/yony-alejandro-peña-ing)
+- **LinkedIn**: [Linkedin](www.linkedin.com/in/yony-alejandro-pena-ing)
 
 👍 If you're interested in my projects or want to collaborate, feel free to connect with me!
 
