@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yony Alejandro Peña</h1>
 <h3 align="center">I am a passionate software developer with experience in projects spanning database management, front-end and back-end web development, and task automation. I thrive on learning new technologies and solving complex problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroyp-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroyp-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroyp-dev&label=Profile%20views&color=0e75b6&style=flat" aalt="alejandroyp-dev" /> </p>
 
 ## 🔧 Areas of Interest and Expertise
 
@@ -12,15 +12,57 @@
 
 ## 🌟 Featured Projects
 
-### 🛒 **Inventory Management System**
-- Implemented a system for sending inventories using asynchronous workers and activities.
-- Modular architecture adhering to best practices.
+### 💊 **AI-Powered Medical Chatbot**
+- Developed a medical chatbot that provides intelligent responses about medications using Google's Gemini AI.
+- Integrated a local database for medicine management with fuzzy search and autocomplete features.
+- Implemented a clean, responsive UI with Tailwind CSS and optimized the backend with FastAPI.
 
-### ⚙️ **Task Automation with Python**
-- Image processing (resolutions, format conversions).
-- REST API integration.
+### 📝 **Medicine Inventory Management System**
+- Built a FastAPI-based backend with JSON storage for managing medical inventories.
+- Implemented CRUD operations, bulk imports/exports, and search/filtering features.
+- Designed an interactive frontend with Bootstrap for real-time data manipulation.
 
+### 👥 **User Management System**
+- Created a secure system for managing users with role-based access control.
+- Implemented authentication, middleware protections, and a modular MVC structure.
+- Designed a responsive UI with real-time search, modals, and Bootstrap icons.
 
+### 🛠 **Massive Email Sending Script**
+- Developed a Python script to send bulk emails using PostgreSQL and SMTP servers.
+- Implemented environment-based configuration and batch email processing.
+- Optimized error handling for connection issues and attachment validations.
+
+### 📌a **Async Task Manager**
+- Implemented an asynchronous task management system for pharmacy operations.
+- Automated inventory, sales, and purchase data submissions to external platforms.
+- Used Python async programming for efficient task execution and data handling.
+
+## 🛠 Technologies & Tools
+
+### **Backend Development**
+- **FastAPI**: Building high-performance APIs with Python.
+- **Laravel**: Developing web applications using MVC architecture.
+- **Node.js**: Server-side scripting and API integration.
+
+### **Databases**
+- **PostgreSQL & MySQL**: Designing relational database schemas and query optimization.
+- **MariaDB**: Managing large-scale data efficiently.
+- **JSON-based storage**: Lightweight and flexible data management.
+
+### **Frontend Technologies**
+- **React.js**: Creating dynamic and interactive web interfaces.
+- **Bootstrap & Tailwind CSS**: Designing responsive and modern UIs.
+- **Vanilla JavaScript**: Core functionality and DOM manipulation.
+
+### **Automation & Scripting**
+- **Python Async Programming**: Handling background tasks efficiently.
+- **Selenium**: Web automation and scraping.
+- **Task Automation**: Implementing scripts for repetitive processes.
+
+### **DevOps & Tools**
+- **Docker**: Containerization and deployment.
+- **Git & GitHub**: Version control and collaboration.
+- **Postman**: API testing and debugging.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -48,7 +90,7 @@
 </p>
 
 ## 🌟 About Me
-
+- Currently working as Software Developer
 - Currently studying at Universidad Autónoma de Occidente (Cali, Colombia)
 - Former student of Pontificia Universidad Javeriana Cali
 - Passionate about learning and sharing knowledge
@@ -60,4 +102,3 @@
 - **LinkedIn**: [Linkedin](https://www.linkedin.com/in/yony-alejandro-pena-ing)
 
 👍 If you're interested in my projects or want to collaborate, feel free to connect with me!
-
